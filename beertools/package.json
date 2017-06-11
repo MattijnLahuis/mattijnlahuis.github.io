@@ -1,6 +1,7 @@
 {
   "name": "beertools",
   "version": "0.1.0",
+  "homepage": "http://mattijnlahuis.github.io/beertools",
   "private": true,
   "dependencies": {
     "prop-types": "^15.5.10",
